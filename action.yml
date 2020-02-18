@@ -18,4 +18,4 @@ outputs:
     description: 'JSON object after modification'
 runs:
   using: 'node12'
-  main: 'index.js'
+  main: 'dist/index.js'
